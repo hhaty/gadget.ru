@@ -9,6 +9,7 @@ only solution for myself I decided to smile and pretend that everything is fine 
 Under this text you can find a cute cat, looking at which you will understand that the problems
 of my project are not so global. :)
 
+Link: http://serge3v0.beget.tech
 
 RU
 Здравствуйте, данный сайт сделан с целью представления возможной верстки заказчику.
@@ -20,6 +21,8 @@ RU
 
 Под этим текстом вы можете найти милого котика, посмотрев на которого вы поймете, что проблемы 
 моего проекта не такие уж и глобальные. :)
+
+Ссылка будет действовать до 16.06.2023: http://serge3v0.beget.tech
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
