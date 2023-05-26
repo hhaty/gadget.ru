@@ -28,4 +28,4 @@ Link: http://serge3v0.beget.tech
 Ссылка будет действовать до 21.06.2023: http://serge3v0.beget.tech
 
 <a href="https://github.com/hhaty">
-    <img alt="kitty" src="https://giphy.com/clips/pussinboots-puss-in-boots-movie-9ylvkZRLbcRljk7K1O">
+    <img alt="kitty" src="https://media.giphy.com/media/puYCXadOGhphDrewiv/giphy-downsized-large.gif">
