@@ -1,5 +1,5 @@
 <a href="https://github.com/hhaty">
-    <img alt="I am" src="assets/img/mine-svgrepo-com.svg">
+    <img alt="I am" height: 100px; width: 200px; overflow: hidden src="assets/img/mine-svgrepo-com.svg">
 </a>
 <a href="https://share.streamlit.io/wervlad/customer-churn-prediction/main/src/customer_churn_prediction/streamlit.py">
     <img alt="Open in Streamlit" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">
