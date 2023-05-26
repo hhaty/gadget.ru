@@ -26,3 +26,6 @@ Link: http://serge3v0.beget.tech
 моего проекта не такие уж и глобальные. :)
 
 Ссылка будет действовать до 21.06.2023: http://serge3v0.beget.tech
+
+<a href="https://github.com/hhaty">
+    <img alt="kitty" src="assets/img/mine-svgrepo-com.svg">
